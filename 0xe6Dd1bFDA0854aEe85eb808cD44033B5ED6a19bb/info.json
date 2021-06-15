@@ -1,0 +1,11 @@
+{
+ "name": "Zootopia Token",
+ "website": "http://www.topacoin.com",
+ "description": "TOPA is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users! Join the moon mission.",
+ "explorer": "https://bscscan.com/token/0xe6dd1bfda0854aee85eb808cd44033b5ed6a19bb",
+ "type": "BEP20",
+ "symbol": "TOPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6dd1bfda0854aee85eb808cd44033b5ed6a19bb"
+}
